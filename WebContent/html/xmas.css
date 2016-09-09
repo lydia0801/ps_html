@@ -1,0 +1,303 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	background-image: url(images/bg.jpg);
+	background-color: #AB242B;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12px;
+	background-repeat: repeat-x;
+	color: #333;
+}
+#container {
+	width: 1000px;
+	margin: 0 auto;
+}
+#content-topbar {
+	height: 183px;
+	padding: 5px 0 0 70px;
+}
+#content-mainarea {
+	background-image: url(images/content-footer.jpg);
+	background-repeat: no-repeat;
+	background-position: left bottom;
+}
+.content {
+	width: 782px;
+	background-image: url(images/content-bg.gif);
+	background-repeat: repeat-x;
+	margin: 0 0 0 84px;
+	padding: 25px;
+	background-color: #F3F2F2;
+}
+.addto {
+	float: left;
+}
+.addto-text {
+	float: left;
+	margin: 0 8px 0 0;
+}
+.listbox {
+	margin: 0 0 10px 0;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	height: 60px;
+}
+.listbox h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: normal;
+	color: #666;
+	margin: 0;
+	padding: 13px 0 0 0;
+	letter-spacing: -1px;
+}
+#footer {
+	background-image: url(images/footer.jpg);
+	background-repeat: repeat-x;
+	height: 40px;
+}
+.footerwrapper {
+	background-image: url(images/footer.gif);
+	background-repeat: no-repeat;
+	height: 20px;
+	width: 1000px;
+	margin: 0 auto;
+	color: #ab9999;
+	font-size: 10px;
+	padding: 20px 0 0 0;
+	text-align: center;
+}
+img {
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+
+
+
+
+
+
+.txt-bold {
+	font-weight: bold;
+}
+
+
+
+.top {
+	background-image: url(images/top.gif);
+	height: 17px;
+}
+.top-link {
+	height: 111px;
+}
+.logo {
+	float: left;
+	height: 111px;
+	width: 669px;
+}
+.clearboth {
+	clear: both;
+}
+.links {
+	float: left;
+	padding: 68px 0 0 0;
+}
+.links ul {
+	display: inline;
+	margin: 0px;
+	padding: 0px;
+}
+.links li {
+	list-style-type: none;
+	display: inline;
+	padding: 0;
+	margin: 0;
+}
+.main-header {
+	background-image: url(images/mainbg.gif);
+	height: 299px;
+	width: 1000px;
+}
+.main-txt {
+	margin: 0 0 0 486px;
+	color: #FFF;
+	line-height: 20px;
+	padding: 0 35px 0 0;
+}
+.main-txt h1 {
+	padding: 26px 0 20px 0;
+	margin: 0;
+}
+.newsbox {
+	background-image: url(images/bg-special.gif);
+	background-repeat: no-repeat;
+	height: 135px;
+	width: 206px;
+	float: left;
+	margin: 0 21px 0 0;
+	padding: 21px 32px 0 32px;
+	color: #ffbcbf;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+.servicebox {
+	background-image: url(images/bg-xmas.gif);
+	background-repeat: no-repeat;
+	height: 135px;
+	width: 206px;
+	float: left;
+	margin: 0 21px 0 0;
+	padding: 21px 32px 0 32px;
+	color: #ffbcbf;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+.greetingbox {
+	background-image: url(images/bg-greetings.gif);
+	background-repeat: no-repeat;
+	height: 135px;
+	width: 211px;
+	float: left;
+	margin: 0 21px 0 0;
+	padding: 21px 32px 0 32px;
+	color: #ffbcbf;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+.content-news {
+	float: left;
+	width: 480px;
+	line-height: 20px;
+}
+.content-right {
+	float: right;
+	width: 235px;
+	margin: 0 35px 0 0;
+}
+.icon-box {
+	float: left;
+	margin: 0 10px 10px 0;
+}
+.content-news h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-weight: normal;
+	letter-spacing: -1px;
+	color: #333;
+	margin: 15px 0 0 0;
+	padding: 0;
+}
+.txt-arial {
+	font-size: 11px;
+	color: #666;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.listbox-inside {
+	margin: 0 10px 10px 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	height: 60px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #FFF;
+	padding: 0;
+}
+.img-right {
+	float: right;
+	margin: 0px 0 0 10px;
+	padding: 10px  0 0 0;
+}
+
+.listbox-inside h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: normal;
+	color: #666;
+	margin: 0;
+	padding: 13px 0 0 0;
+	letter-spacing: -1px;
+}
+.content-right01 {
+	float: right;
+	width: 252px;
+	margin: 0 35px 0 0;
+	background-color: #F3F6EB;
+	background-image: url(images/top-corner.gif);
+	background-repeat: no-repeat;
+	background-position: left top;
+	padding: 20px 0 0 0;
+}
+.side-bottom {
+	background-image: url(images/bottom-corner.gif);
+	background-repeat: no-repeat;
+	height: 12px;
+	float: right;
+	margin: 0;
+	width: 252px;
+}
+
+
+
+.form{
+	padding: o;
+	margin: 0;
+}
+
+div.fieldwrapper{ /*field row DIV (includes two columns- Styled label column and 'thefield' column)*/
+	width: 400px; /*width of form rows*/
+	overflow: hidden;
+	padding: 0;
+	margin: 0;
+	height: auto;
+}
+.txt-blank {
+	color: #F3F2F2;
+}
+
+
+div.fieldwrapper label.styled{ /* label elements that should be styled (left column within fieldwrapper DIV) */
+	float: left;
+	width: 80px;
+	margin-right: 15px; /*spacing with right column*/
+}
+div.thefield ul {
+	margin: 0px;
+	padding: 0px;
+}
+div.thefield li {
+	display: inline;
+	list-style-type: none;
+	margin: 0px;
+	padding: 0 6px 0 0;
+}
+
+
+
+div.fieldwrapper div.thefield{ /* DIV that wraps around the actual form fields (right column within fieldwrapper DIV) */
+	float: left;
+	margin-bottom: 10px; /* space following the field */
+}
+
+div.fieldwrapper div.thefield input[type="text"]{ /* style for INPUT type="text" fields. Has no effect in IE7 or below! */
+	width: 230px;
+}
+
+
+div.fieldwrapper div.thefield textarea{ /* style for TEXTAREA fields. */
+	width: 229px;
+	height: 100px;
+}
+div.fieldwrapper div.thebig textarea {
+	width: 400px;
+	height: 100px;
+}
+
+
+
+div.buttonsdiv{ /*div that wraps around the submit/reset buttons*/
+	width: 379px;
+	text-align: left;
+
+}
